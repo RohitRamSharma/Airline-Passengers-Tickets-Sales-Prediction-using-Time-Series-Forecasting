@@ -8,5 +8,6 @@ The dataset used in this project is International airline passengers dataset. It
 
 • Achieved best accuracy of 19.23% MAPE in SARIMA & 34.26 RMSE by implementing the Prophet mode
 
-#Data set
+### Dataset
+
 The dataset used in this project is International airline passengers dataset. It contains monthly total number of passengers (in thousands) and has two columns – month and count of passengers.
