@@ -11,3 +11,6 @@ The dataset used in this project is International airline passengers dataset. It
 ### Dataset
 
 The dataset used in this project is International airline passengers dataset. It contains monthly total number of passengers (in thousands) and has two columns – month and count of passengers.
+
+### Collaborated by-
+Ankit Kumar https://github.com/ANKT12
