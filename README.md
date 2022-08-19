@@ -6,7 +6,7 @@ The dataset used in this project is International airline passengers dataset. It
 
 • Performed ADF test for stationarity & used ARIMA, SARIMA, Prophet and XGBoosT to predict future sales.
 
-• Achieved best accuracy of 19.23% MAPE in SARIMA & 34.26 RMSE by implementing the Prophet model.
+• Achieved best accuracy of 19.23% MAPE in SARIMA & 14.27% MAPE by implementing the Prophet model.
 
 ### Dataset
 
